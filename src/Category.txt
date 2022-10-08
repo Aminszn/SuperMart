@@ -1,0 +1,5 @@
+001, Grocery
+002, Drinks
+003, Alcohol
+004, Electronics
+005, Furniture

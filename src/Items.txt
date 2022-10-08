@@ -1,0 +1,20 @@
+1, Sliced Bread , 500 , 001
+2, 1 de rica of Rice, 400 , 001
+3, 1 de rica of Beans, 400, 001
+4, 1 bag of Rice, 24000, 001
+5, 1 bag of Beans, 30000, 001
+6, 5 Alive(Berry blast), 500, 002
+7, 5 Alive(Pulpy), 500, 002
+8, FreshYo, 500, 002
+9, Bottle Water, 100, 002
+10, LondonBest, 1000, 003
+11, MagicMoment, 2500, 003
+12, OX Standing Fan, 24000, 004
+13, Queen Sized Ben, 143000.99, 005
+14, Spaghetti (Tiny), 400, 001
+15, 1 Carton of Spaghetti (Tiny), 3500, 001
+16, Spaghetti, 350, 001
+17, 1 Carton of Spaghetti, 3000, 001
+18, HP Laptop, 100000, 004
+19, MacBook Laptop, 300000, 004
+20, Johnnie Walker, 15000, 003
